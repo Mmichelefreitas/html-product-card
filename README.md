@@ -11,6 +11,8 @@
 	<code><img height="25" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
 </div>
 
+## See it live on GitHub Pages at: https://mmichelefreitas.github.io/html-product-card
+
 <h4><strong> 🔗 Keep in touch</strong></h4>
 
 [<img src="https://img.shields.io/badge/LinkedIn-mmichelefreitas-blue"/>](https://www.linkedin.com/in/mmichelefreitas/)
